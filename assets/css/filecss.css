@@ -1,0 +1,5 @@
+body{background-image:linear-gradient(to right ,green,darkslategray);}
+a:link{color: yellow;}
+a:visited{color: red;
+width: 400 px;
+}
